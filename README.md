@@ -1,13 +1,12 @@
-# anvil-parser
+# anvil-parser3
 
-[![CodeFactor](https://www.codefactor.io/repository/github/matcool/anvil-parser/badge/master)](https://www.codefactor.io/repository/github/matcool/anvil-parser/overview/master)
-[![Documentation Status](https://readthedocs.org/projects/anvil-parser/badge/?version=latest)](https://anvil-parser.readthedocs.io/en/latest/?badge=latest)
-[![Tests](https://github.com/matcool/anvil-parser/actions/workflows/run-pytest.yml/badge.svg)](https://github.com/matcool/anvil-parser/actions/workflows/run-pytest.yml)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/anvil-parser)](https://pypi.org/project/anvil-parser/)
+[![CodeFactor](https://www.codefactor.io/repository/github/voyager-2021/anvil-parser3/badge/master)](https://www.codefactor.io/repository/github/voyager-2021/anvil-parser3/overview/master)
+[![Tests](https://github.com/voyager-2021/anvil-parser3/actions/workflows/run-pytest.yml/badge.svg)](https://github.com/voyager-2021/anvil-parser3/actions/workflows/run-pytest.yml)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/anvil-parser3)](https://pypi.org/project/anvil-parser3/)
 
 Simple parser for the [Minecraft anvil file format](https://minecraft.gamepedia.com/Anvil_file_format)
 # Installation
-This project is available on [PyPI](https://pypi.org/project/anvil-parser/) and can be installed with pip
+This project is available on [PyPI](https://pypi.org/project/anvil-parser3/) and can be installed with pip
 ```
 pip install anvil-parser
 ```
